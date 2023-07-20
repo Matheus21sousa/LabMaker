@@ -1,3 +1,10 @@
+// MADE BY: Matheus Martins de Sousa //
+//
+// O presente projeto é aberto a correções
+// Use com sabedoria!
+// :)
+//
+
 // Pinagem:
 // Pino maior: GND
 // Pino 1x esq.: R
